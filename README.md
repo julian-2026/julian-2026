@@ -1,18 +1,4 @@
 # 👋 Hi,
-<div align="center">
-
-![Cat Typing](https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=1100&lines=Documented+by+8+Years+of+Passion+and+Innovation;still+newbie+like+a+drop+of+water+in+the+middle+of+the+ocean;Building+Digital+Experiences" alt="Typing SVG" />
-</div>
-
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yogithesymbian&color=blueviolet&style=flat-square)](https://github.com/yogithesymbian)
-[![Crates.io](https://img.shields.io/crates/v/yo_netwatch.svg)](https://crates.io/crates/yo_netwatch)
-
-</div>
-
 
 ---
 
